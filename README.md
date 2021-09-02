@@ -9,4 +9,4 @@ This is source code for a Xojo desktop project that relies on the Chilkat API fo
 
 CompletedCellarWork.xojo_binary_project
 
-This is source code is for a Xojo web app that works in the brewery cellar can use to update cellar log data from a mobile phone.
+This is source code for a Xojo web app that workers in the brewery cellar can use to update cellar log data from a mobile phone.
